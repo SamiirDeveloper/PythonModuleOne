@@ -30,7 +30,7 @@ print(sentence.strip())
 print(sentence.replace("Developer", "Engineer"))
 print(sentence.split())
 
-#Build a text-based name generator that comvines random first and last names using string manipulation.
+#Build a text-based name generator that combines random first and last names using string manipulation.
 
 first_names = ["Samir", "Sam", "Sammy"]
 last_names = ["Lander", "World", "Supremacy"]
