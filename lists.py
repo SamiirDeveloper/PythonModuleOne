@@ -17,9 +17,9 @@ print(fruit[-1])
 # Create a program that asks the user for their top 3 favorite books, 
 # stores them in a list prints the list in a sorted list.
 
-favorite_books = [] #Empty list to store books
+favorite_books = [] #initialize an empty list
 
-first_book = input("What is the first book you would like to add?: ")
+first_book = input("What is the first book you would like to add?: ") #Prompt user for an input
 second_book = input("What is the second book you would like to add?: ")
 third_book = input("What is the third book you would like to add?: ")
 
